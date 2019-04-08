@@ -1,5 +1,7 @@
 {
   "name": "nevercode-test",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
